@@ -20,7 +20,7 @@
   , "dependencies": {
         "uglify-js": "1.2.5"
       , "ws": "0.4.x"
-      , "xmlhttprequest": "1.4.2"
+      , "xmlhttprequest": "git://github.com/shapeshed/node-XMLHttpRequest.git"
       , "active-x-obfuscator": "0.0.1"
     }
   , "devDependencies": {
